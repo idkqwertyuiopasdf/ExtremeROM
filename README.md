@@ -16,8 +16,8 @@
   <a href="https://github.com/ExtremeXT/ExtremeROM/blob/fifteen/MAINTAINERS">🧑‍💻 Maintainers</a>
 </p>
 
-# What is ExtremeROM Nexus?
-ExtremeROM Nexus is a work-in-progress custom firmware for Samsung Galaxy devices.
+# What is ExtremeROM Quant?
+ExtremeROM Quant is a work-in-progress custom firmware for Samsung Galaxy devices.
 
 It's based on the latest and greatest iteration of Samsung's UX and it also includes additional features and tweaks to ensure the best possible experience out of the box.
 
@@ -26,21 +26,6 @@ It is based on the UN1CA build system which allows automatic downloading/extract
 ExtremeROM Nexus supports devices using the Exynos 9820, Exynos 990, Exynos 2100 and Exynos 2200 SoCs
 
 Any form of contribution, suggestions, bug report or feature request for the project will be welcome.
-
-# EOL Notice
-As of 04-01-2026, ExtremeROM is officially considered end of life until further notice.
-
-I reserve all rights to this project and any future continuations or spin-offs.
-
-No updates or support will be provided, but the repository will remain archived publicly.
-
-This notice does NOT change the GPLv3 license of this project.
-
-The unfinished/WIP sixteen branch has also been published for any developer that wishes to utilize code from it, while faithfully adhering to the GPLv3 licensing etiquette.
-
-I wish to thank everyone for the support given during the lifetime of this project. Thanks to all maintainers and users for everything.
-
-This branch is unfinished and will NOT build.
 
 # Features
 - Based on the latest stable OneUI 7 Galaxy S25 FE firmware
@@ -104,6 +89,10 @@ This project is licensed under the terms of the [GNU General Public License v3.0
 
 # Credits
 A big thanks goes to the following for their invaluable contributions in no particular order (MORE INFO AND PEOPLE: TO BE WRITTEN)
+- **[ExtremeXT](https://github.com/ExtremeXT)** for the OG ExtremeROM Project
+
+# Original ExtremeROM Credits 
+
 - **[salvogiangri](https://github.com/salvogiangri)** for the UN1CA build system, OneUI patches, and general help and support while developing
 - **[Ocin4Ever](https://github.com/Ocin4Ever)** for a lot of help especially on smali, advice and emotional support :D
 - **[Igor](https://github.com/BotchedRPR)** for getting me into porting, teaching me the basics, and emotional support down the road
